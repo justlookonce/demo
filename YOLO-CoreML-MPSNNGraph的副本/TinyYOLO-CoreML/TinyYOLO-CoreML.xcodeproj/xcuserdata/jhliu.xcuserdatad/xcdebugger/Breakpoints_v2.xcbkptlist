@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B1BF50F8-E4FE-420D-AC26-3B5ECF5F852B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8FA4638-2A5E-49E8-AFB7-8F352D1A723F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyYOLO-CoreML/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "show(predictions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8FA4638-2A5E-49E8-AFB7-8F352D1A723F - 5f1bde3eed938fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.show(predictions: Swift.Array&lt;TinyYOLO_CoreML.YOLO.Prediction&gt;) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhliu/Desktop/test/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+               <Location
+                  uuid = "E8FA4638-2A5E-49E8-AFB7-8F352D1A723F - 5f1bde3eed938fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.show(predictions: Swift.Array&lt;TinyYOLO_CoreML.YOLO.Prediction&gt;) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhliu/Desktop/test/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78D639BE-DAB3-4178-A48B-2CDE6576D8E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Common/helpers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "nonMaxSuppression(boxes:limit:threshold:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

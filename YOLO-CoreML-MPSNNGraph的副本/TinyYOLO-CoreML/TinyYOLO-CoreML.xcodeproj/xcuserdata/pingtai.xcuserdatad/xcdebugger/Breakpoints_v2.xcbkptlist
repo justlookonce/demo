@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "50166EB7-5BA6-44E1-A0BE-34CDF3D58C61"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978D5BC3-F910-407C-916D-FAA44F20B4E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyYOLO-CoreML/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "videoCapture(_:didCaptureVideoFrame:timestamp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "978D5BC3-F910-407C-916D-FAA44F20B4E3 - 2e5366b331320d22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.videoCapture(_: TinyYOLO_CoreML.VideoCapture, didCaptureVideoFrame: Swift.Optional&lt;__C.CVBufferRef&gt;, timestamp: __C.CMTime) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pingtai/Desktop/test_yolo/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "978D5BC3-F910-407C-916D-FAA44F20B4E3 - 2e5366b331320d22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.videoCapture(_: TinyYOLO_CoreML.VideoCapture, didCaptureVideoFrame: Swift.Optional&lt;__C.CVBufferRef&gt;, timestamp: __C.CMTime) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pingtai/Desktop/test_yolo/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "211138DB-ADE7-4A8D-9FAE-9CA359460248"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyYOLO-CoreML/VideoCapture.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC4AE8BD-B2FC-4B79-A6BF-8B989913BA1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyYOLO-CoreML/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "videoCapture(_:didCaptureVideoFrame:timestamp:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D8A5CD5-3270-4D34-B22A-855514E3982A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyYOLO-CoreML/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "visionRequestDidComplete(request:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D8A5CD5-3270-4D34-B22A-855514E3982A - c092f37572722abe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.visionRequestDidComplete(request: __C.VNRequest, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pingtai/Desktop/test_yolo/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "3D8A5CD5-3270-4D34-B22A-855514E3982A - c092f37572722abe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyYOLO_CoreML.ViewController.visionRequestDidComplete(request: __C.VNRequest, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "TinyYOLO-CoreML"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pingtai/Desktop/test_yolo/YOLO-CoreML-MPSNNGraph/TinyYOLO-CoreML/TinyYOLO-CoreML/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
